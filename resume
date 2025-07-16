@@ -1,0 +1,11 @@
+Managed GitLab users, created repositories, protected branches, and assigned role-based access to ensure secure and efficient collaboration.
+Managed and deployed Spring Boot microservices using modern DevOps practices.
+Established role-based access control (RBAC) in Jenkins to organize job access and enforce security policies.
+Migrated Spring Boot and PHP Laravel applications to AWS EKS clusters, ensuring scalability and availability.
+Developed and maintained CI/CD pipelines using Jenkins, integrating Maven, GitLab, and other DevOps tools for efficient automation and deployment.
+Automated deployment of PHP Laravel applications using Jenkins, reducing manual overhead and improving delivery timelines.
+Configured and managed AWS EKS clusters with Kubernetes,ensuring high availability through node auto-scaling and loadbalancing.
+Configured Jenkins jobs with Synopsys tools (Black Duck, Coverity,Thunderscan) for DevSecOps implementation, per- forming code quality and security scans within pipelines.
+Automated Docker image creation, vulnerability scanning (Trivy), and resource cleanup.
+Designed and implemented ELK Stack solutions for centralized logging and monitoring.
+Managed GitLab users, created repositories, protected branches, and assigned role-based access to ensure secure and efficient collaboration.
